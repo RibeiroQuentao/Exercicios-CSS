@@ -188,3 +188,28 @@ button:hover {
 .ovos img{
     padding: 80px;
 }
+
+.top11{
+    background-color: #fbefdf;
+    height: 60px;
+    padding: 40px;
+}
+
+.esq_1{
+    float: left;
+    width: 200px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #3d2a1b;
+}
+
+.esq_2{
+    float: left;
+    width: 700px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #3d2a1b;
+}
+.dir_2{
+    float: left;
+    margin-right: 100px;
+    margin-top: -10px;
+}
